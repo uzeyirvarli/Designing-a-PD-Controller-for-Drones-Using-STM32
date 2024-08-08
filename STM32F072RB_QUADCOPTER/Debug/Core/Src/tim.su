@@ -1,0 +1,2 @@
+../Core/Src/tim.c:16:6:MX_TIM1_Init	80	static
+../Core/Src/tim.c:93:6:MX_TIM2_Init	32	static

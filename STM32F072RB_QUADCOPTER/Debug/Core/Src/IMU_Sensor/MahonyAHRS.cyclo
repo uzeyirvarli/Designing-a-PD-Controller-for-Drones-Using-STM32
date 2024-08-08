@@ -1,0 +1,11 @@
+../Core/Src/IMU_Sensor/MahonyAHRS.c:63:6:Mahony_begin	1
+../Core/Src/IMU_Sensor/MahonyAHRS.c:68:6:Mahony_update	8
+../Core/Src/IMU_Sensor/MahonyAHRS.c:182:6:Mahony_updateIMU	5
+../Core/Src/IMU_Sensor/MahonyAHRS.c:261:7:Mahony_invSqrt	1
+../Core/Src/IMU_Sensor/MahonyAHRS.c:275:6:Mahony_computeAngles	1
+../Core/Src/IMU_Sensor/MahonyAHRS.c:283:7:Mahony_getRoll	2
+../Core/Src/IMU_Sensor/MahonyAHRS.c:288:7:Mahony_getPitch	2
+../Core/Src/IMU_Sensor/MahonyAHRS.c:293:7:Mahony_getYaw	2
+../Core/Src/IMU_Sensor/MahonyAHRS.c:299:7:Mahony_getRollRadians	2
+../Core/Src/IMU_Sensor/MahonyAHRS.c:304:7:Mahony_getPitchRadians	2
+../Core/Src/IMU_Sensor/MahonyAHRS.c:309:7:Mahony_getYawRadians	2

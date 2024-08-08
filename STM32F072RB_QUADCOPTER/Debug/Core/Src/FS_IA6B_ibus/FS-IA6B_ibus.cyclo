@@ -1,0 +1,4 @@
+../Core/Src/FS_IA6B_ibus/FS-IA6B_ibus.c:20:15:iBus_Check_CHKSUM	4
+../Core/Src/FS_IA6B_ibus/FS-IA6B_ibus.c:32:6:iBus_Parsing	1
+../Core/Src/FS_IA6B_ibus/FS-IA6B_ibus.c:44:15:iBus_isActiveFailsafe	1
+../Core/Src/FS_IA6B_ibus/FS-IA6B_ibus.c:49:6:IbusData	2

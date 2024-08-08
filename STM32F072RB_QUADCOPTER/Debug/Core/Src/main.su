@@ -1,0 +1,7 @@
+../Core/Src/main.c:128:5:main	24	static
+../Core/Src/main.c:302:7:read_voltaj	32	static
+../Core/Src/main.c:324:7:Mapping	40	static
+../Core/Src/main.c:332:6:desired_yaw_pitch_roll	32	static
+../Core/Src/main.c:351:13:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main.c:362:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:377:6:Error_Handler	8	static,ignoring_inline_asm

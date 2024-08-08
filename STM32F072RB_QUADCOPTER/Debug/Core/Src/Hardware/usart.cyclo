@@ -1,0 +1,2 @@
+../Core/Src/Hardware/usart.c:13:6:MX_USART1_UART_Init	2
+../Core/Src/Hardware/usart.c:48:6:MX_USART2_UART_Init	2
